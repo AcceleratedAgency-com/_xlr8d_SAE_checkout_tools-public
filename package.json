@@ -1,0 +1,13 @@
+{
+  "name": "Accelerated-SAE-checkout-tools",
+  "private": true,
+  "version": "1.0.0",
+  "license": "Accelerated Agency Agreement",
+  "dependencies": {
+    "@shopify/ui-extensions": "2025.7.x",
+    "@shopify/ui-extensions-react": "2025.7.x"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1"
+  }
+}
